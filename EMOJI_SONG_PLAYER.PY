@@ -1,0 +1,54 @@
+import time
+
+def sing_song():
+    lyrics = [
+    "Tu Paas Hai Mere Paas Hai Aise",
+    "Mera Koi Ehsaas Hai Jaise",
+    "Tu Paas Hai Mere Paas Hai Aise",
+    "Mera Koi Ehsaas Hai Jaise",
+    "Haaye Main Mar Hi Jaaun",
+    "Jo Tujhko Na Paaun",
+    "Baaton Mein Teri Main Raatein Bitaaun",
+    "Honthon Pe Lamha Lamha",
+    "Hai Naam Tera Haaye",
+    "Tujhko Hi Gaaun Main Tujhko Pukaaroon",
+    "Saiyaara Tu Toh Badla Nahin Hai",
+    "Mausam Zara Sa Rootha Hua Hai",
+    "Saiyaara Tu Toh Badla Nahin Hai",
+    "Mausam Zara Sa Rootha Hua Hai",
+    "Beetey Lamhon Se Duniya Basa Loon",
+    "Main Toh Tere Aansuon Ka Bana Hoon",
+    "Meri Hansi Mein Teri Sadaayein",
+    "Teri Kahaani Khud Ko Sunaaun",
+    "Yaadon Ke Taare Yaadon Ke Taare Tootenge Kaise",
+    "Mere Hain Jo Woh Roothenge Kaise",
+    "Beetey Dinon Ki Kholi Kitaabein",
+    "Guzre Palon Ko Kaise Bhula Dein",
+    "Haaye Main Mar Hi Jaaun",
+    "Jo Tujhko Na Paaun",
+    "Baaton Mein Teri Main Raatein Bitaaun",
+    "Honthon Pe Lamha Lamha",
+    "Hai Naam Tera Haaye",
+    "Tujhko Hi Gaaun Main Tujhko Pukaaroon",
+    "Saiyaara Tu Toh Badla Nahin Hai",
+    "Mausam Zara Sa Rootha Hua Hai",
+    "Saiyaara Tu Toh Badla Nahin Hai",
+    "Mausam Zara Sa Rootha Hua Hai",
+    "Jis Roz Hum Tum Phir Se Milenge",
+    "Yeh Saari Baatein Tujhse Kahenge",
+    "Duniya Mein Chaahe Ban Jaayein Jo Bhi",
+    "Tere Bina Tab Kuch Na Rahenge",
+    "Haaye Main Mar Hi Jaaun",
+    "Jo Tujhko Na Paaun",
+    "Jo Tujhko Na Paaun",
+    "Main Mar Hi Jaaun",
+    "Honthon Pe Lamha Lamha",
+    "Hai Naam Tera Haaye",
+    "Tujhko Hi Gaaun Main Tujhko Pukaaroon"
+]
+    for line in lyrics:
+        print(line)
+        time.sleep(2)
+print("------Welcome to Emoji song player------")
+sing_song()
+print("Song finished....MIC DROP ")

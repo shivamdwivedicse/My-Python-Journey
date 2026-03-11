@@ -1,0 +1,4 @@
+import random
+
+moods = ["😎 Cool", "😂 Crazy", "😴 Sleepy", "🥶 Lazy", "😡 Angry", "🤩 Smart", "🥳 Party Animal"]
+print("Your mood today is:", random.choice(moods))
