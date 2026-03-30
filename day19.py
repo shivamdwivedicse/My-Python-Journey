@@ -76,7 +76,7 @@ while True:
         print("Expenses saved. Exiting...")
         break
     else:
-        print("Invalid choice")```
+        print("Invalid choice")
 
 #  Explanation:*
 
